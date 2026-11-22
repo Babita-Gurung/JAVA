@@ -1,3 +1,5 @@
+package EasyProblems;
+
 public class PrefixLengthFinder {
     public static String longestCommonPrefix(String[] strs) {
         String output = "";

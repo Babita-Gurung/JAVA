@@ -1,3 +1,5 @@
+package EasyProblems;
+
 class TwoSums {
     public int[] twoSum(int[] nums, int target) {
         int index1=0, index2=0, addTwoNums=0;

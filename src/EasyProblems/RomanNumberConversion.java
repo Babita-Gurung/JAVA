@@ -1,4 +1,6 @@
-class Solution {
+package EasyProblems;
+
+class RomanNumberConversion {
     public int romanToInt(String s) {
         int current = 0, previous = 0, total = 0;
 

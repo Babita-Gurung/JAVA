@@ -1,3 +1,5 @@
+package EasyProblems;
+
 class IsPalindrome {
     public boolean isPalindrome(int x) {
         String s = String.valueOf(x);
